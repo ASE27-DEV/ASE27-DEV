@@ -8,6 +8,7 @@
 - 🥅 2022 Goals: Make my own video game
 - ⚡ Fun fact: I love smarties
 ### Connect with me:
+<br />
 
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=https://www.linkedin.com/in/anthony-schwarz-656a60212/&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/anthony-schwarz-656a60212/)](https://www.linkedin.com/in/anthony-schwarz-656a60212/)
 
