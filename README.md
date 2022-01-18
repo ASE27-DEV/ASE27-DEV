@@ -5,7 +5,7 @@
 ## I'm a Full stack Developer based in Montpellier ! <img  alt="Visual Studio Code" width="40px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 
 - 🤝🏻 I’m looking to collaborate with other developper
-- 🥅 2022 Goals: Make my own video game
+- 🥅 2022 Goals: Starting to make my own video game
 - ⚡ Fun fact: I love smarties
 ### Connect with me:
 <br />
