@@ -6,6 +6,7 @@
 
 - 🤝🏻 I’m looking to collaborate with other developper
 - 🥅 2022 Goals: Starting to make my own video game
+- Actually in intership for Software Engineer
 - ⚡ Fun fact: I love smarties
 ### Connect with me:
 <br />
